@@ -13,5 +13,7 @@ function divide(a, b) {
   return a/= b
 }
 function inc(n) {
-  return a*= b
+  var n = 0
+  n++
+  return n
 }
