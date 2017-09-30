@@ -15,5 +15,5 @@ function divide(a, b) {
 function inc(n) {
   return a*= b
   var b = 400
-  add(b)
+  addb()
 }
