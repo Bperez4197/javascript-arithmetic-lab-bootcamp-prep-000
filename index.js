@@ -1,5 +1,6 @@
 var a = 10
 var b = 5
+var n = 5
 function add(a, b) {
   return a += b
 }
@@ -13,5 +14,5 @@ function divide(a, b) {
   return a/= b
 }
 function inc(n) {
-  return
+  return a*= b + n
 }
